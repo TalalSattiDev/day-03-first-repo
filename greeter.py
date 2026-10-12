@@ -1,0 +1,8 @@
+Talal=input("what is your name? ")
+age=input("what is your age?")
+goal=input("what is your goal")
+print("")
+print(f"hey {Talal}.")
+print(f"you're {age} years old.")
+print(f"your goal is to {goal}.")
+print("lets build it.")
